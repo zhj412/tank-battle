@@ -2,6 +2,8 @@
 
 一个用纯 HTML + CSS + JavaScript 编写的经典坦克大战（Battle City）游戏，无需任何依赖，双击即可在浏览器中运行。
 
+🌐 **在线体验**：https://zhj412.github.io/tank-battle/
+
 ## ✨ 特性
 
 - 🕹️ 经典玩法：控制坦克消灭敌人、保护基地
@@ -13,7 +15,7 @@
 
 ## 🚀 如何运行
 
-直接用浏览器打开 `tank-battle.html` 文件即可开始游戏，无需安装任何东西。
+直接用浏览器打开 `index.html` 文件即可开始游戏，无需安装任何东西。
 
 或者使用任意静态服务器：
 
@@ -39,7 +41,7 @@ python -m http.server 8000
 
 ```
 .
-├── tank-battle.html  # 游戏主文件（单文件，包含全部代码）
+├── index.html        # 游戏主文件（单文件，包含全部代码）
 └── README.md         # 项目说明
 ```
 
